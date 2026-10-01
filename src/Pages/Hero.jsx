@@ -14,7 +14,7 @@ function Hero() {
                     />
                     <Carousel.Caption className="top-50 start-50 translate-middle w-100">
                         <h3 className="fw-bold display-4 px-3">
-                            Get <em className='text-danger'>ready</em> for your businesses hello hii & upgrade <em className='text-danger'>all aspects</em>
+                            Get <em className='text-danger'>ready</em> for your businesses hello hii vgr & upgrade <em className='text-danger'>all aspects</em>
                         </h3>
                         <p>
                             Mexant HTML5 Template is provided for free of charge. This layout is based on React Boostrap 5 CSS framework.</p>
